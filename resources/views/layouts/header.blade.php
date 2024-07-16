@@ -30,7 +30,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.html"><img src="" alt=""/>Sewain</a>
+          <a class="navbar-brand" href="index.html"><img src="img/asset/logo-putih.png" alt=""/></a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -64,8 +64,8 @@
                 <li><a href="shopping-cart.html">shopping cart</a></li>
               </ul>
             </li>
-            
-            
+
+
             @if (Route::has('login'))
                     @auth
                     <li class="login-register-link right-side-link ">

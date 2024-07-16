@@ -20,7 +20,7 @@
 {{-- include "layout/header.html"; --}}
 @include('layouts.header')
 @yield('content')
-  
+
 {{-- // include "layout/footer.html"; --}}
 @include('layouts.footer')
 

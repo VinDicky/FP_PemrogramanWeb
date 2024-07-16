@@ -79,10 +79,10 @@
                 <span class="rq-search-heading">Driver</span>
                 <select name="categories" class="category-option">
                   <option value="0">25 Years old</option>
-                  <option value="1">25 Years old</option>
-                  <option value="2">25 Years old</option>
-                  <option value="3">25 Years old</option>
-                  <option value="4">25 Years old</option>
+                  <option value="1">30 Years old</option>
+                  <option value="2">21 Years old</option>
+                  <option value="3">22 Years old</option>
+                  <option value="4">19 Years old</option>
                   <option value="5">25 Years old</option>
                 </select>
               </div>
@@ -114,6 +114,12 @@
                     <span class="rq-checkbox">
                       <input type="checkbox" id="brand-two">
                       <label for="brand-two">Daihatsu</label>
+                    </span>
+                  </li>
+                  <li>
+                    <span class="rq-checkbox">
+                      <input type="checkbox" id="brand-three">
+                      <label for="brand-three">Mitsubishi</label>
                     </span>
                   </li>
                   <li>
@@ -162,7 +168,7 @@
             <div class="filter-single">
               <div class="btn-group">
                 <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Fuel <span class="caret"></span>
+                  Bahan Bakar <span class="caret"></span>
                 </button>
                 <ul class="dropdown-menu">
                   <li>
@@ -195,7 +201,7 @@
             <div class="filter-single">
               <div class="btn-group">
                 <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Price <span class="caret"></span>
+                  Harga <span class="caret"></span>
                 </button>
                 <ul class="dropdown-menu">
                   <li>

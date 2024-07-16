@@ -77,7 +77,7 @@
                       </ul>
                       <div>
                         <br>
-                        Description : 
+                        Description :
                         <p>{{ $car->description }}</p>
                       </div>
                     </div>
@@ -152,7 +152,7 @@
                 <div class="rq-contact-us-map"> <!-- start map portion -->
                   <div id="listing-map"></div>
                 </div> <!-- end map portion -->
-        
+
               </div> --}}
             </div>
           </div> <!-- .end rq-content-block -->
