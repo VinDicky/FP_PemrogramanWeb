@@ -178,98 +178,21 @@
                       <ul class="nav nav-tabs" role="tablist">
                         <li>
                           <a href="#">
-                            <img src="img/listing-details-tab/tab-image1.png" alt="">
-                            <span class="tittle">Lamborghini Aventado 2012</span>
-                            <span class="car-des">Four Seater Car</span>
-                            <span class="rent-price">$39.00<b>/Day</b></span>
-                          </a>
-                        </li>
-                        <li>
-                          <a href="#">
                             <img src="img/listing-details-tab/tab-image2.png" alt="">
-                            <span class="tittle">Ford Red Sport Car</span>
-                            <span class="car-des">Four Seater Car</span>
-                            <span class="rent-price">$29.00<b>/Day</b></span>
-                          </a>
-                        </li>
-                        <li role="presentation">
-                          <a href="#car-three"  role="tab" data-toggle="tab">
-                            <img src="img/listing-details-tab/tab-image3.png" alt="">
-                            <span class="tittle">Kia Rio White Car 2016</span>
-                            <span class="car-des">Four Seater Car</span>
-                            <span class="rent-price">$27.00<b>/Day</b></span>
-                          </a>
-                        </li>
-                        <li role="presentation">
-                          <a href="#car-four"  role="tab" data-toggle="tab">
-                            <img src="img/listing-details-tab/tab-image1.png" alt="">
-                            <span class="tittle">Kia Rio White Car 2016</span>
-                            <span class="car-des">Four Seater Car</span>
-                            <span class="rent-price">$27.00<b>/Day</b></span>
+                            <span class="tittle">Honda Brio</span>
+                            <span class="car-des">4 Seater Car</span>
+                            <span class="rent-price">Rp.555.000,<b>/hari</b></span>
                           </a>
                         </li>
                         <li role="presentation">
                           <a href="#car-five"  role="tab" data-toggle="tab">
-                            <img src="img/listing-details-tab/tab-image2.png" alt="">
-                            <span class="tittle">Kia Rio White Car 2016</span>
-                            <span class="car-des">Four Seater Car</span>
-                            <span class="rent-price">$27.00<b>/Day</b></span>
+                            <img src="img/asset/zenix.jpg" alt="">
+                            <span class="tittle">Toyota Innova Zenix</span>
+                            <span class="car-des">7 Seater Car</span>
+                            <span class="rent-price">Rp.650.000,<b>/Hari</b></span>
                           </a>
                         </li>
                       </ul>
-                    </div>
-                  </div>
-                  <div class="col-md-6">
-                    <h3 class="section-title">FAQs</h3>
-                    <div class="rq-faqs">
-                      <div class="faq-single">
-                        <a href="#" class="faq-title">What is Road tax ?</a>
-                        <p class="hidden-content">
-                        This is Photoshop's version  of Lorem Ipsum. Proin gravida
-                        nibh vel velit tubo auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor,
-                        nisi elit exo consequat ipsum, nec sagittis sem nibh id elit.
-                        </p>
-                      </div>
-                      <div class="faq-single">
-                        <a href="#" class="faq-title">How to use Manual Model of Audi R8?</a>
-                        <p class="hidden-content">
-                        This is Photoshop's version  of Lorem Ipsum. Proin gravida
-                        nibh vel velit tubo auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor,
-                        nisi elit exo consequat ipsum, nec sagittis sem nibh id elit.
-                        </p>
-                      </div>
-                      <div class="faq-single">
-                        <a href="#" class="faq-title">What’s fees that you have to pay ?</a>
-                        <p class="hidden-content">
-                        This is Photoshop's version  of Lorem Ipsum. Proin gravida
-                        nibh vel velit tubo auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor,
-                        nisi elit exo consequat ipsum, nec sagittis sem nibh id elit.
-                        </p>
-                      </div>
-                      <div class="faq-single">
-                        <a href="#" class="faq-title">Problems with your car on road ?</a>
-                        <p class="hidden-content">
-                        This is Photoshop's version  of Lorem Ipsum. Proin gravida
-                        nibh vel velit tubo auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor,
-                        nisi elit exo consequat ipsum, nec sagittis sem nibh id elit.
-                        </p>
-                      </div>
-                      <div class="faq-single">
-                        <a href="#" class="faq-title">How to rent a car from local network?</a>
-                        <p class="hidden-content">
-                        This is Photoshop's version  of Lorem Ipsum. Proin gravida
-                        nibh vel velit tubo auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor,
-                        nisi elit exo consequat ipsum, nec sagittis sem nibh id elit.
-                        </p>
-                      </div>
-                      <div class="faq-single">
-                        <a href="#" class="faq-title">How long limited to rent car from Turbo on the world ?</a>
-                        <p class="hidden-content">
-                        This is Photoshop's version  of Lorem Ipsum. Proin gravida
-                        nibh vel velit tubo auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor,
-                        nisi elit exo consequat ipsum, nec sagittis sem nibh id elit.
-                        </p>
-                      </div>
                     </div>
                   </div>
                 </div>
