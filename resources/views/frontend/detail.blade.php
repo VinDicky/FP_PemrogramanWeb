@@ -147,7 +147,7 @@
               </div>  <!-- ./edn feature tab -->
               {{-- <div class="location-map">
                 <div class="listing-page-title">
-                  <h3>Location</h3>
+                  <h3>Lokasi</h3>
                 </div>
                 <div class="rq-contact-us-map"> <!-- start map portion -->
                   <div id="listing-map"></div>
@@ -159,7 +159,7 @@
           <div class="rq-content-block gray-bg">
             <div class="container">
               <div class="listing-page-title">
-                <h3>Book Car Now</h3>
+                <h3>Pesan Sekarang</h3>
               </div>
               <div class="col-md-12 text-center">
                 <div class="book-btn">
