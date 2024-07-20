@@ -11,5 +11,7 @@ export default defineConfig({
             refresh: true,
         }),
     ],
+    build: {
+        outDir: 'dist', // Tambahkan ini untuk mengatur output directory
+    },
 });
-
